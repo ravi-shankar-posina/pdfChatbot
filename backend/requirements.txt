@@ -1,0 +1,9 @@
+langchain
+groq
+langchain_groq
+fastapi
+uvicorn
+chromadb
+langchain_community
+langchain_openai
+pypdf
